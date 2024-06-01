@@ -1,0 +1,50 @@
+		 Good morning, I am Franklin.
+
+*I have 4.2years of experience in software testing, encompassing both manual and automation testing
+
+*As a manual tester with 2.5 years of experience, I've been responsible for test case creation, execution, regression testing, and ensuring software quality through  manual testing processes.
+
+*As a Automation tester 1.5years of experience using selenium automation tool with java language
+
+*I do have experience in cucumber BDD,TestNG frame work. I've created feature files, step definitions, and scenarios.
+
+*To maintain test data, I used data-driven testing, where I separate test data from test scripts and use external files or databases for data storage.
+
+*For source code management, I've using GitHub, ensuring version control, collaboration, and seamless integration with automation scripts
+
+
+*My defect tracking tool of choice has been JIRA, where I've reported, tracked, and managed software defects efficiently
+
+*My work methodology follows Agile practices, with 2 week sprints. In this Agile environment, I prioritize testing tasks and collaborate closely with development and QA teams to ensure efficient software delivery."
+
+
+Moulton Technologies - JULY 2018 – Aug 2021
+____________________________________________
+Software Test Engineer
+
+
+Project Name : GABOR
+Domain : E-Commerce
+Tools & Technologies : Selenium, Cucumber, Junit, POM, Maven, Git, Jenkins, API – Postman
+
+ 
+Gabor is a renowned shoe brand offering stylish and comfortable footwear. Their website showcases a wide range of shoes for men and women, emphasizing quality and fashion. With Gabor, you can expect trendy designs and exceptional comfort in every step.
+The customer will be able to have a look at all the products, User also able to select product under Combo saving modules. We can view order list.
+we are using selenium webdriver as an automation tool with java as a programing language, so we are using cucumber BDD Frame work and we are maintaining test data in excel sheet and configuration parameters of an application in properties files and for source code management tool we are using git hub as of CI/CD tool we are using jenkins and using JIRA as a Defect tracking tool and we are following Agile Methodology and our scrum team consist of 11 members were we have 1 scrum master and 1 project Manager and we have 1 buisness analyst and 1 dev lead and 3 develeoper and 1 QA Lead and 3 QA 
+
+
+Expelo Solutions Ltd - SEPTEMBER 2021 – JANUARY 2023
+_____________________________________________________
+Software Test Engineer
+Project Name : Zelle
+Domain : Banking
+Tools& Technologies: Manual testing, JIRA (Bug tracking)
+
+Project Description:
+-------------------
+As a team member, Involved in various manual testing like smoke, sanity, regression and exploratory testing. Preparation, review and execution of test cases, analyzing the results. and organizing them based on changing requirements.
+Responsibilities:
+
+
+
+
